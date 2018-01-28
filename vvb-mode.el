@@ -11,6 +11,8 @@
 
 ;; This file may be part of XEmacs.
 
+;; License: GPL-2+
+
 ;; The same license/disclaimer for XEmacs also applies to this package.
 
 ;;; Commentary:
